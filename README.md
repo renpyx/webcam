@@ -52,3 +52,7 @@ Für den Dauerbetrieb per Cron `cronjob.sh` eintragen, zb. stündlich:
 # Optional mit log:
 0 * * * * /pfad/zu/cronjob.sh >> /var/log/webcam.log 2>&1
 ```
+
+## Lizenz
+
+MIT - siehe [LICENSE](LICENSE).
